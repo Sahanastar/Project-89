@@ -5,5 +5,5 @@
        localStorage.setItem("player1_name",player_1);
        localStorage.setItem("player2_name",player_2);
 
-       window.location = "ADV_90.html";
+       window.location = "1_index.html";
    }     
